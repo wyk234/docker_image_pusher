@@ -1,5 +1,3 @@
-postgres
-mysql
 sql server
 redis
 mongodb
