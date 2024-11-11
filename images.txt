@@ -1,1 +1,2 @@
-registry.k8s.io/metrics-server/metrics-server:v0.7.2
+docker.io/prom/node-exporter:v1.8.0
+prom/prometheus:v2.51.1
