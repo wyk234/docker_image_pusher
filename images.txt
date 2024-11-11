@@ -1,1 +1,1 @@
-gmoney23/nfs-client-provisioner:latest
+registry-op.test.cn/nfs-subdir-external-provisioner:v4.0.1
