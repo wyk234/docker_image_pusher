@@ -1,1 +1,1 @@
-registry-op.test.cn/nfs-subdir-external-provisioner:v4.0.1
+quay.io/external_storage/nfs-subdir-external-provisioner
