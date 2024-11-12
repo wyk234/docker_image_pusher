@@ -1,1 +1,1 @@
-quay.io/external_storage/nfs-subdir-external-provisioner
+bitnami/kube-state-metrics
