@@ -1,1 +1,1 @@
-bitnami/kube-state-metrics
+k8s.gcr.io/addon-resizer
