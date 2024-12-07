@@ -1,1 +1,1 @@
-google/cadvisor:v0.44.0
+google/cadvisor:0.44.0
