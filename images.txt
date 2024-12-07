@@ -1,1 +1,1 @@
-quay.io/coreos/kube-state-metrics
+google/cadvisor:latest
