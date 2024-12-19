@@ -1,4 +1,1 @@
-docker.io/calico/cni:v3.26.1
-docker.io/calico/node:v3.26.1
-docker.io/calico/kube-controllers:v3.26.1
-docker.io/calico/typha:v3.26.1
+sameersbn/bind:latest
