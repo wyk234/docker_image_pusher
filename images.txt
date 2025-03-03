@@ -1,1 +1,1 @@
-docker.io/calico/node-driver-registrar:v3.26.4
+docker.io/calico/kube-controllers:v3.26.4
