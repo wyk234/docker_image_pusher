@@ -1,1 +1,1 @@
-docker.io/calico/csi:v3.26.4
+docker.io/calico/apiserver:v3.26.4
