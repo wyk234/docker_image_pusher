@@ -1,1 +1,1 @@
-docker.io/calico/apiserver:v3.26.4
+jenkins/jenkins:2.486-jdk17
