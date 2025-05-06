@@ -1,1 +1,1 @@
-jenkins/jenkins:2.486-jdk17
+ollama/ollama:latest
