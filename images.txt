@@ -1,1 +1,1 @@
-docker.io/calico/csi:v3.28.0
+registry.k8s.io/coredns/coredns:v1.11.3
