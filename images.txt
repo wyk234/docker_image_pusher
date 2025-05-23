@@ -1,1 +1,1 @@
-nfs-client-provisioner:latest
+k8s.dockerproxy.com/sig-storage/nfs-subdir-external-provisioner:v4.0.2
