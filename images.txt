@@ -1,1 +1,9 @@
-kubesphere/ks-installer:v3.3.0
+csiplugin/snapshot-controller:v4.0.0
+mirrorgooglecontainers/defaultbackend-amd64:1.4
+kubesphere/kube-state-metrics:v2.3.0
+prom/node-exporter:v1.3.1
+kubesphere/kube-rbac-proxy:v0.11.0
+kubesphere/prometheus-operator:v0.55.1
+kubesphere/ks-apiserver:v3.3.0
+kubesphere/ks-console:v3.3.0
+kubesphere/ks-controller-manager:v3.3.0
