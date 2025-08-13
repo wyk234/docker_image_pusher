@@ -1,1 +1,1 @@
-jenkins:2.346.3-lts
+jenkins:2.486-jdk17
