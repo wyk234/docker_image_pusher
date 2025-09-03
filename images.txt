@@ -1,1 +1,1 @@
-jenkins/jenkins:lts
+enmotech/opengauss:latest
