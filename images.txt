@@ -1,10 +1,10 @@
-quay.ioopenstack.kolla/glance-api
-quay.ioopenstack.kolla/ubuntu-source-glance-api
-quay.ioopenstack.kolla/ubuntu-binary-glance-api
-quay.ioopenstack.kolla/ubuntu-binary-glance-base
-quay.ioopenstack.kolla/ubuntu-source-glance-base
-quay.ioopenstack.kolla/ubuntu-source-glance-registry
-quay.ioopenstack.kolla/ubuntu-binary-glance-registry
+quay.io/openstack.kolla/glance-api
+quay.io/openstack.kolla/ubuntu-source-glance-api
+quay.io/openstack.kolla/ubuntu-binary-glance-api
+quay.io/openstack.kolla/ubuntu-binary-glance-base
+quay.io/openstack.kolla/ubuntu-source-glance-base
+quay.io/openstack.kolla/ubuntu-source-glance-registry
+quay.io/openstack.kolla/ubuntu-binary-glance-registry
 quay.io/openstack.kolla/nova-api:master-ubuntu-noble
 quay.io/openstack.kolla/nova-libvirt:master-ubuntu-noble
 quay.io/openstack.kolla/nova-compute:master-ubuntu-noble
