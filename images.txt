@@ -1,1 +1,1 @@
-enmotech/opengauss:latest
+quay.io/openstack.kolla/kolla-toolbox:master-ubuntu-noblex86-64
