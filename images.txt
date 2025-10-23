@@ -1,1 +1,1 @@
-quay.io/openstack.kolla/rabbitmq:master-ubuntu-noblex
+quay.io/openstack.kolla/rabbitmq:master-ubuntu-noble
