@@ -1,1 +1,1 @@
-quay.io/openstack.kolla/placement-api:master-ubuntu-noble
+quay.io/openstack.kolla/openvswitch-db-server:master-ubuntu-noble
