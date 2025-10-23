@@ -1,1 +1,1 @@
-quay.io/openstack.kolla/keystone-fernet:master-ubuntu-noble
+quay.io/openstack.kolla/keystone-ssh:master-ubuntu-noble
