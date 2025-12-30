@@ -1,1 +1,1 @@
-quay.io/openstack.kolla/heat-engine:master-ubuntu-noble
+registry.k8s.io/metrics-server/metrics-server:v0.8.0
