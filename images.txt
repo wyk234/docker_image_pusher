@@ -1,1 +1,1 @@
-jenkinsci/blueocean
+enmotech/opengauss:latest
