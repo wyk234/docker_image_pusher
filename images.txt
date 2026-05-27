@@ -1,1 +1,1 @@
-enmotech/opengauss:latest
+opengauss/opengauss:latest
