@@ -1,1 +1,1 @@
-opengauss/opengauss:latest
+opengauss/opengauss:7.0.0-RC3.B025
