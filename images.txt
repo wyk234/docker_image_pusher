@@ -1,1 +1,1 @@
-enmotech/opengauss:5.0.3
+quay.io/prometheus-operator/prometheus-operator:v0.93.0
