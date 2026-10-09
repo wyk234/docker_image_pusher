@@ -1,1 +1,1 @@
-container-registry.oracle.com/mysql/community-server:8.4
+opengauss/opengauss-server:latest
